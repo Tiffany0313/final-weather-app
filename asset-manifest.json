@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/final-weather-app/static/css/main.b929f2f6.chunk.css",
-    "main.js": "/final-weather-app/static/js/main.13eddb54.chunk.js",
-    "main.js.map": "/final-weather-app/static/js/main.13eddb54.chunk.js.map",
+    "main.js": "/final-weather-app/static/js/main.b6210275.chunk.js",
+    "main.js.map": "/final-weather-app/static/js/main.b6210275.chunk.js.map",
     "runtime-main.js": "/final-weather-app/static/js/runtime-main.800e9038.js",
     "runtime-main.js.map": "/final-weather-app/static/js/runtime-main.800e9038.js.map",
     "static/css/2.679831fc.chunk.css": "/final-weather-app/static/css/2.679831fc.chunk.css",
@@ -11,6 +11,8 @@
     "static/js/3.0a26dcb4.chunk.js": "/final-weather-app/static/js/3.0a26dcb4.chunk.js",
     "static/js/3.0a26dcb4.chunk.js.map": "/final-weather-app/static/js/3.0a26dcb4.chunk.js.map",
     "index.html": "/final-weather-app/index.html",
+    "service-worker.js": "/final-weather-app/service-worker.js",
+    "service-worker.js.map": "/final-weather-app/service-worker.js.map",
     "static/css/2.679831fc.chunk.css.map": "/final-weather-app/static/css/2.679831fc.chunk.css.map",
     "static/css/main.b929f2f6.chunk.css.map": "/final-weather-app/static/css/main.b929f2f6.chunk.css.map",
     "static/js/2.6617486d.chunk.js.LICENSE.txt": "/final-weather-app/static/js/2.6617486d.chunk.js.LICENSE.txt",
@@ -39,6 +41,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.6617486d.chunk.js",
     "static/css/main.b929f2f6.chunk.css",
-    "static/js/main.13eddb54.chunk.js"
+    "static/js/main.b6210275.chunk.js"
   ]
 }
