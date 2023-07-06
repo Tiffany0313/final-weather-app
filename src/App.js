@@ -37,7 +37,7 @@ const Container = styled.div`
   justify-content: center;
 `;
 
-const AUTHORIZATION_KEY = process.env.REACT_APP_WEATHER;
+const AUTHORIZATION_KEY = process.env.REACT_APP_API_AUTHORIZATION_KEY;
 
 function App() {
   console.log('invoke');
