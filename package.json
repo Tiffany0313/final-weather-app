@@ -36,7 +36,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:sunrise-sunset": "node ./src/utils/filter-sunrise-and-sunset",
+    "build:process-sunrise-sunset": "node src/scripts/generateSunriseAndSunsetData/process-sunrise-and-sunset.mjs",
+    "build:sunrise-sunset": "node src/scripts/generateSunriseAndSunsetData/index.mjs",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
@@ -57,5 +58,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "^3.2.10"
   }
 }
