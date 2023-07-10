@@ -27,8 +27,7 @@ const fetchCurrentWeather = ({ authorizationKey, locationName }) => { //回傳Pr
                 temperature: weatherElements.TEMP,
                 windSpeed: weatherElements.WDSD,
                 // description: '多雲時晴',
-                // rainPossibility: 60,
-                isLoading: false
+                // rainPossibility: 60
             }
             // ))
         })
